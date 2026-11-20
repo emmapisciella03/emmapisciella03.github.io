@@ -5,4 +5,6 @@ I'm 23 years old and I'm from Abruzzo, but I'm currently living in Milan to conc
 <br><br>
 I graduate last year in Sociology at <a href="https://www.unimib.it/triennale/sociologia"> University of Milan-Bicocca </a>
 <br><br>
+**I'm now creating my personal site on GitHub. Stay here for my updates!**
+<br><br>
 However, <a href="https://www.youtube.com/watch?v=cLJp-YJeuzc">listen my favourite song! </a>
